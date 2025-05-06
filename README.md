@@ -31,7 +31,7 @@ Here are some of the projects I’m working on or have completed:
 🤖 Kuromi Discord Bot
 A multifunctional Python Discord bot that provides weather updates, analyzes financial PDFs, tracks stock prices, and delivers news. Perfect for finance enthusiasts and data-driven users!
 
-(![image](https://github.com/user-attachments/assets/21f7fee8-f751-4086-81f4-47dcfe0b767c)
+![image](https://github.com/user-attachments/assets/21f7fee8-f751-4086-81f4-47dcfe0b767c)
 
 
 🛠️ Technologies Used
